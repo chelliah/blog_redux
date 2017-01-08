@@ -1,0 +1,13 @@
+@import 'utilities/variables';
+
+@import 'mixins/transition';
+@import 'mixins/animation';
+
+@import 'components/header';
+
+html,body{
+  margin: 0 auto;
+  width: 90%;
+
+  font-family: "Raleway", "Helvetica Neue", sans-serif;
+}
